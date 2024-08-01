@@ -7,7 +7,6 @@ TagManager:
   - Package
   - Customer
   - SpeedUp
-  - SlowDown
   layers:
   - Default
   - TransparentFX
